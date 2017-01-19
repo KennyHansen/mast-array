@@ -25,7 +25,7 @@ function logArr() {
     }
     return logArray
 }
-console.log('lol','lol','lol','lol','lol','lol','lol','lol','lol','lol','lol','lol','lol','lol','lol','lol','lol','loool','lol','lol','lol','lol','lol')
+console.log(logArr('lol','lol','lol','lol','lol','lol','lol','lol','lol','lol','lol','lol','lol','lol','lol','lol','lol','loool','lol','lol','lol','lol','lol'))
 
 /**
     Fill in the necessary parts of the findById function below
